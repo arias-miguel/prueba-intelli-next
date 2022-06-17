@@ -1,0 +1,8 @@
+*{
+    box-sizing: border-box;
+}
+
+.profile {
+    bottom: 150px;
+    left: 60px;
+}
