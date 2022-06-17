@@ -6,3 +6,12 @@
     bottom: 150px;
     left: 60px;
 }
+.main-card{
+    height: 600px;
+}
+.profile-header-nav{
+    position: relative;
+    top:-210px;
+    left: 300px;
+    width: 40%;
+}
