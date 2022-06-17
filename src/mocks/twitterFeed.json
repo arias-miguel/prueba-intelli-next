@@ -1,23 +1,39 @@
-[
-    {
-        "name":"Gertrude Stevens",
-        "thumbnail":"https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/5-small_ismufe.png",
-        "description":"I love cookie chupa chups sweet tart apple pie ⭐️ chocolate bar.",
-        "hashtags":"#design #fasion",
-        "iconStart":""
-    },
-    {
-        "name":"Lura Jones",
-        "thumbnail":"https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/12-small_mtvrrl.png",
-        "description":"Halvah I love powder jelly I love cheesecake cotton candy. 😍",
-        "hashtags":"#vuejs #code #coffeez",
-        "iconStart":""
-    },
-    {
-        "name":"Norman Gross",
-        "thumbnail":"https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/1-small_zghcvj.png",
-        "description":"Candy jelly beans powder brownie biscuit. Jelly marzipan oat cake cake.",
-        "hashtags":"#sketch #uiux #figma",
-        "iconStart":""
-    }
-]
+{
+    "twitters": [
+        {   
+            "id": 34,
+            "name": "Gertrude Stevens",
+            "user": "tiana59",
+            "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/5-small_ismufe.png",
+            "description": "I love cookie chupa chups sweet tart apple pie ⭐️ chocolate bar.",
+            "hashtags": [
+                "design",
+                "fasion"
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Lura Jones",
+            "user": "luraj30",
+            "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/12-small_mtvrrl.png",
+            "description": "Halvah I love powder jelly I love cheesecake cotton candy. 😍",
+            "hashtags": [
+                "vuejs",
+                "code",
+                "coffeez"
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Norman Gross",
+            "user": "normagro",
+            "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/1-small_zghcvj.png",
+            "description": "Candy jelly beans powder brownie biscuit. Jelly marzipan oat cake cake.",
+            "hashtags": [
+                "sketch",
+                "uiux",
+                "figma"
+            ]
+        }
+    ]
+}

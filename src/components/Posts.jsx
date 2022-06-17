@@ -1,29 +1,15 @@
-import React, { useEffect, useState } from 'react'
-import { helpHttp } from '../helpers/helpHttp';
-import Post from './Post'
+import React from 'react';
+import Post from './Post';
 
-const Posts = () => {
-    const [dataPost, setDataPost] = useState({})
-    let url= 'https://intellinextapi.herokuapp.com/post';
+const Posts = ({data}) => {
     
-    useEffect(() => {
-   
-      helpHttp()
-        .get(url)
-        .then((res) => {
-          if (!res.err) {
-            setDataPost(res)    
-          } 
-         
-        });
-    }, [url]);
-    console.log(dataPost)
   return (
     <>
-        <Post data={dataPost}/>
-       
+       {
+        data.map((element,index) => <Post key={Math.random().toString(36).substring(0,index)}  data={element} />)
+       }
     </>
   )
 }
 
-export default Posts
+export default Posts;

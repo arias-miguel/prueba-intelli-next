@@ -1,17 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
 *{
     box-sizing: border-box;
+    font-family: 'Montserrat', sans-serif;
 }
-
+.pages-profile{
+    background-color: #f2f2f4;
+}
 .profile {
     bottom: 150px;
     left: 60px;
 }
 .main-card{
-    height: 600px;
+    max-height: 440px;
 }
 .profile-header-nav{
     position: relative;
     top:-210px;
     left: 300px;
     width: 40%;
+    color:red;
+}
+.botton-profile{
+    background-color: #7367f0;
+    color:white;
+    box-shadow: #2a2375
+}
+.nav-color-profile{
+    color:#7367f0;
+}
+
+.profile-star{
+    filter: blue;
+}
+.position-botton-profile{
+    position: relative;
+    left: 145%;
 }

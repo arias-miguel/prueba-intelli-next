@@ -1,0 +1,72 @@
+{
+	"suggestedPages": [
+		{
+			"name": "Peter Reed",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/12-small_mtvrrl.png",
+			"source": "Company",
+			"favorite": false
+		},
+		{
+			"name": "Harriett Adkins",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/1-small_zghcvj.png",
+			"source": "Company",
+			"favorite": false
+		},
+		{
+			"name": "Juan Weaver",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/10-small_of2888.png",
+			"source": "Company",
+			"favorite": false
+		},
+		{
+			"name": "Claudia Chandler",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/3-small_ayddbi.png",
+			"source": "Company",
+			"favorite": false
+		},
+		{
+			"name": "Earl Briggs",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/5-small_ismufe.png",
+			"source": "Company",
+			"favorite": true
+		},
+		{
+			"name": "Jonathan Lyons",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/6-small_t6hpit.png",
+			"source": "Beauty Store",
+			"favorite": false
+		}
+	],
+	"suggestions": [
+		{
+			"name": "Peter Reed",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/12-small_mtvrrl.png",
+			"numbMutualFriends": 6
+		},
+		{
+			"name": "Harriett Adkins",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655449630/pruebaIntelliNext/avatar-s-6_rvkxx0.jpg",
+			"numbMutualFriends": 3
+		},
+		{
+			"name": "Juan Weaver",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444432/pruebaIntelliNext/avatar-s-8_cdir7b.jpg",
+			"numbMutualFriends": 1
+		},
+		{
+			"name": "Claudia Chandler",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655449717/pruebaIntelliNext/avatar-s-7_skknyd.jpg",
+			"numbMutualFriends": 16
+		},
+		{
+			"name": "Earl Briggs",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/10-small_of2888.png",
+			"numbMutualFriends": 4
+		},
+		{
+			"name": "Jonathan Lyons",
+			"thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655449636/pruebaIntelliNext/avatar-s-10_oj1l9c.jpg",
+			"numbMutualFriends": 25
+		}
+	]
+}
