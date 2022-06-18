@@ -6,7 +6,7 @@
     "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/3-small_ayddbi.png",
     "description": "Wonderful Machine· A well-written bio allows viewers to get to know a photographer beyond the work. This can make the difference when presenting to clients who are looking for the perfect fit.",
     "postContent": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444151/pruebaIntelliNext/2_emveuo.jpg",
-    "countLikes": 140,
+    "countLikes": 1250,
     "countComments": 1250,
     "countShares": 1250,
     "comments": [
@@ -14,15 +14,25 @@
         "name": "Kitty Allanson",
         "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444353/pruebaIntelliNext/avatar-s-6_h6an8q.jpg",
         "description": "Easy & smart fuzzy search🕵🏻 functionality which enables users to search quickly.",
-        "numberLikes": 34
+        "numberLikes": 34,
+        "liked": false
       },
       {
         "name": "Jackey Potter",
         "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444432/pruebaIntelliNext/avatar-s-8_cdir7b.jpg",
         "description": "Unlimited color🖌 options allows you to set your application color as per your branding 🤪.",
-        "numberLikes": 61
+        "numberLikes": 61,
+        "liked": true
       }
-    ]
+    ],
+    "images": [
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/10-small_of2888.png",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444432/pruebaIntelliNext/avatar-s-3_t7nq2q.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/user-07_liso5h.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655449717/pruebaIntelliNext/avatar-s-7_skknyd.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336588/pruebaIntelliNext/user-04_zwo7s4.jpg"
+    ],
+    "avatarNumber": 140
   },
   {
     "id": 2,
@@ -33,14 +43,24 @@
     "postContent": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444152/pruebaIntelliNext/25_xmhucp.jpg",
     "countComments": 1250,
     "countShares": 1250,
+    "countLikes": 1250,
     "comments": [
       {
         "name": "Kitty Allanson",
         "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444432/pruebaIntelliNext/avatar-s-3_t7nq2q.jpg",
         "description": "Easy & smart fuzzy search🕵🏻 functionality which enables users to search quickly.",
-        "numberLikes": 34
+        "numberLikes": 34,
+        "liked": false
       }
-    ]
+    ],
+    "images": [
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/10-small_of2888.png",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444432/pruebaIntelliNext/avatar-s-3_t7nq2q.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/user-07_liso5h.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655449717/pruebaIntelliNext/avatar-s-7_skknyd.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336588/pruebaIntelliNext/user-04_zwo7s4.jpg"
+    ],
+    "avatarNumber": 271
   },
   {
     "id": 3,
@@ -51,14 +71,23 @@
     "postContent": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444151/pruebaIntelliNext/2_emveuo.jpg",
     "countComments": 1250,
     "countShares": 1250,
-    "countLikes": 264,
+    "countLikes": 1250,
     "comments": [
       {
         "name": "Kitty Allanson",
         "thumbnail": "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444432/pruebaIntelliNext/avatar-s-3_t7nq2q.jpg",
         "description": "Easy & smart fuzzy search🕵🏻 functionality which enables users to search quickly.",
-        "numberLikes": 34
+        "numberLikes": 34,
+        "liked": false
       }
-    ]
+    ],
+    "images": [
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/10-small_of2888.png",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655444432/pruebaIntelliNext/avatar-s-3_t7nq2q.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336589/pruebaIntelliNext/user-07_liso5h.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655449717/pruebaIntelliNext/avatar-s-7_skknyd.jpg",
+      "https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336588/pruebaIntelliNext/user-04_zwo7s4.jpg"
+    ],
+    "avatarNumber": 264
   }
 ]

@@ -11,6 +11,7 @@ import personalData from '../mocks/personalInfo.json';
 import suggestions from '../mocks/suggestions.json';
 import twitterFeed from '../mocks/twitterFeed.json';
 import lastestPhotos from '../mocks/latestPhotos.json';
+import polls from '../mocks/polls.json';
 import Feeds from './Feeds';
 import LatestPhotos from './LatestPhotos';
 import Polls from './Polls';
@@ -37,7 +38,7 @@ const Main = () => {
               <div className="col-lg-3 col-12 order-3">
                 <LatestPhotos data={lastestPhotos.lastestPhotos}/>
                 <Suggests data={suggestions.suggestions} type={"suggestions"} title={"Suggestions"} />
-                <Polls />
+                <Polls data={polls}/>
               </div>
 
             </div>
@@ -51,6 +52,13 @@ const Main = () => {
 
           </section>
 
+        </Row>
+        <Row>
+          <div className="buy-now">
+            <a href="#" className="btn btn-danger waves-effect waves-float waves-light">
+              Buy Now
+            </a>
+          </div>
         </Row>
         {/* </div>  */}
       </Container>

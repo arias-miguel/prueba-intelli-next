@@ -23,10 +23,10 @@
 .botton-profile{
     background-color: #7367f0;
     color:white;
-    box-shadow: #2a2375
+    box-shadow: #2a2375;
 }
 .nav-color-profile{
-    color:#7367f0;
+    color:#7367F0;
 }
 
 .profile-star{
@@ -35,4 +35,28 @@
 .position-botton-profile{
     position: relative;
     left: 145%;
+}
+
+.add-friend {
+    background-color:#7367F0;
+}
+
+.buy-now a {
+    position: fixed;
+    bottom: 2rem;
+    right: 4rem;
+    box-shadow: 0 1px 20px 1px #EA5455 !important;
+}
+
+.form-check-input:checked {
+    background-color: #7367F0 !important;
+    border-color: #7367F0 !important;
+}
+
+.progress-bar {
+    background-color: #7367F0 !important;
+}
+
+a {
+    text-decoration: none !important;
 }

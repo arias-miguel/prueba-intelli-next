@@ -1,0 +1,19 @@
+[
+    {
+        "name": "RDJ",
+        "percentage": 82,
+        "images": [
+            "https://pixinvent.com/demo/vuexy-html-bootstrap-admin-template/app-assets/images/portrait/small/avatar-s-12.jpg",
+            "https://pixinvent.com/demo/vuexy-html-bootstrap-admin-template/app-assets/images/portrait/small/avatar-s-12.jpg",
+            "https://pixinvent.com/demo/vuexy-html-bootstrap-admin-template/app-assets/images/portrait/small/avatar-s-12.jpg"
+        ]
+    },
+    {
+        "name": "Chris Hemswort",
+        "percentage": 67,
+        "images": [
+            "https://pixinvent.com/demo/vuexy-html-bootstrap-admin-template/app-assets/images/portrait/small/avatar-s-12.jpg",
+            "https://pixinvent.com/demo/vuexy-html-bootstrap-admin-template/app-assets/images/portrait/small/avatar-s-12.jpg"
+        ]
+    }
+]

@@ -12,7 +12,7 @@ const Profile = () => {
 		<>
 			<Row className="main-row">
 				<Col>
-					<Card className='main-card mb-4'>
+					<Card className="main-card my-4 shadow-sm">
 						<Card.Img variant="top" src="https://res.cloudinary.com/dbdrkxooj/image/upload/v1655336590/pruebaIntelliNext/timeline_qg5mca.jpg" className='rounded-top' alt='beach' />
 						<div className="profile position-relative w-50">
 							<div className="d-flex flex-row">
