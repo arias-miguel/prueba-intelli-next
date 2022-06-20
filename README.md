@@ -1,4 +1,4 @@
-link of daploy https://prueba-intelli-next.vercel.app/
+link of deploy https://prueba-intelli-next.vercel.app/
 
 # Getting Started with Create React App
 
